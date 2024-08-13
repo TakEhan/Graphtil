@@ -8,5 +8,5 @@ Put the file into C:\Users\username\AppData\Roaming\Microsoft\AddIns
 Make it available. 
 
 # Methods
-## Copy limits ("Scale") and ticks ("unit") of a graph ("chart") (Ctrl+Shift+t)
-## Align line features (color, width, style) for all lines on a graph (Ctrl+Shift+r)
+## Copy Width, height, limits ("Scale"), and ticks ("unit") of a graph ("Activechart") to all graphs on the sheet ("Activesheet") (Ctrl+Shift+t)
+## Align line features (color, width, style) for all lines on a graph ("Activechart") (Ctrl+Shift+r)
